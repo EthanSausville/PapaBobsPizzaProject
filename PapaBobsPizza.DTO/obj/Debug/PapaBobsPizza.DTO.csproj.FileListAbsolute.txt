@@ -1,0 +1,6 @@
+C:\Users\Ethan\Documents\My Code\PapaBobsPizza\PapaBobsPizza.DTO\bin\Debug\PapaBobsPizza.DTO.dll
+C:\Users\Ethan\Documents\My Code\PapaBobsPizza\PapaBobsPizza.DTO\bin\Debug\PapaBobsPizza.DTO.pdb
+C:\Users\Ethan\Documents\My Code\PapaBobsPizza\PapaBobsPizza.DTO\obj\Debug\PapaBobsPizza.DTO.csproj.CoreCompileInputs.cache
+C:\Users\Ethan\Documents\My Code\PapaBobsPizza\PapaBobsPizza.DTO\obj\Debug\PapaBobsPizza.DTO.dll
+C:\Users\Ethan\Documents\My Code\PapaBobsPizza\PapaBobsPizza.DTO\obj\Debug\PapaBobsPizza.DTO.pdb
+C:\Users\Ethan\Documents\My Code\PapaBobsPizza\PapaBobsPizza.DTO\obj\Debug\PapaBobsPizza.DTO.csprojResolveAssemblyReference.cache

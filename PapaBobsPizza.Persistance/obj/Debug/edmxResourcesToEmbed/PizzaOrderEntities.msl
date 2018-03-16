@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="PapaBobsOrdersModelStoreContainer" CdmEntityContainer="PizzaOrderEntities">
+    <EntitySetMapping Name="Orders">
+      <EntityTypeMapping TypeName="PapaBobsOrdersModel.Order">
+        <MappingFragment StoreEntitySet="Order">
+          <ScalarProperty Name="OrderID" ColumnName="OrderID" />
+          <ScalarProperty Name="Size" ColumnName="Size" />
+          <ScalarProperty Name="Crust" ColumnName="Crust" />
+          <ScalarProperty Name="Sausage" ColumnName="Sausage" />
+          <ScalarProperty Name="Pepperoni" ColumnName="Pepperoni" />
+          <ScalarProperty Name="Onions" ColumnName="Onions" />
+          <ScalarProperty Name="Green_Peppers" ColumnName="Green Peppers" />
+          <ScalarProperty Name="Cost" ColumnName="Cost" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="Address" ColumnName="Address" />
+          <ScalarProperty Name="Zip" ColumnName="Zip" />
+          <ScalarProperty Name="Phone" ColumnName="Phone" />
+          <ScalarProperty Name="Status" ColumnName="Status" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

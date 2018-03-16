@@ -1,0 +1,13 @@
+C:\Users\Ethan\Documents\My Code\PapaBobsPizza\PapaBobsPizza.Persistance\bin\Debug\PapaBobsPizza.Persistance.dll
+C:\Users\Ethan\Documents\My Code\PapaBobsPizza\PapaBobsPizza.Persistance\bin\Debug\PapaBobsPizza.Persistance.pdb
+C:\Users\Ethan\Documents\My Code\PapaBobsPizza\PapaBobsPizza.Persistance\obj\Debug\PapaBobsPizza.Persistence.csprojResolveAssemblyReference.cache
+C:\Users\Ethan\Documents\My Code\PapaBobsPizza\PapaBobsPizza.Persistance\obj\Debug\PapaBobsPizza.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\Ethan\Documents\My Code\PapaBobsPizza\PapaBobsPizza.Persistance\obj\Debug\PapaBobsPizza.Persistance.dll
+C:\Users\Ethan\Documents\My Code\PapaBobsPizza\PapaBobsPizza.Persistance\obj\Debug\PapaBobsPizza.Persistance.pdb
+C:\Users\Ethan\Documents\My Code\PapaBobsPizza\PapaBobsPizza.Persistance\bin\Debug\EntityFramework.dll
+C:\Users\Ethan\Documents\My Code\PapaBobsPizza\PapaBobsPizza.Persistance\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ethan\Documents\My Code\PapaBobsPizza\PapaBobsPizza.Persistance\bin\Debug\EntityFramework.xml
+C:\Users\Ethan\Documents\My Code\PapaBobsPizza\PapaBobsPizza.Persistance\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ethan\Documents\My Code\PapaBobsPizza\PapaBobsPizza.Persistance\bin\Debug\PapaBobsPizza.DTO.dll
+C:\Users\Ethan\Documents\My Code\PapaBobsPizza\PapaBobsPizza.Persistance\bin\Debug\PapaBobsPizza.DTO.pdb
+C:\Users\Ethan\Documents\My Code\PapaBobsPizza\PapaBobsPizza.Persistance\bin\Debug\PapaBobsPizza.Persistance.dll.config

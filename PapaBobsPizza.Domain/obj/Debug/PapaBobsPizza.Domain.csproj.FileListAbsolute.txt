@@ -1,0 +1,13 @@
+C:\Users\Ethan\Documents\My Code\PapaBobsPizza\PapaBobsPizza.Domain\bin\Debug\PapaBobsPizza.Domain.dll
+C:\Users\Ethan\Documents\My Code\PapaBobsPizza\PapaBobsPizza.Domain\bin\Debug\PapaBobsPizza.Domain.pdb
+C:\Users\Ethan\Documents\My Code\PapaBobsPizza\PapaBobsPizza.Domain\obj\Debug\PapaBobsPizza.Domain.csprojResolveAssemblyReference.cache
+C:\Users\Ethan\Documents\My Code\PapaBobsPizza\PapaBobsPizza.Domain\obj\Debug\PapaBobsPizza.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Ethan\Documents\My Code\PapaBobsPizza\PapaBobsPizza.Domain\obj\Debug\PapaBobsPizza.Domain.dll
+C:\Users\Ethan\Documents\My Code\PapaBobsPizza\PapaBobsPizza.Domain\obj\Debug\PapaBobsPizza.Domain.pdb
+C:\Users\Ethan\Documents\My Code\PapaBobsPizza\PapaBobsPizza.Domain\bin\Debug\PapaBobsPizza.Persistance.dll
+C:\Users\Ethan\Documents\My Code\PapaBobsPizza\PapaBobsPizza.Domain\bin\Debug\PapaBobsPizza.Persistance.pdb
+C:\Users\Ethan\Documents\My Code\PapaBobsPizza\PapaBobsPizza.Domain\bin\Debug\EntityFramework.dll
+C:\Users\Ethan\Documents\My Code\PapaBobsPizza\PapaBobsPizza.Domain\bin\Debug\EntityFramework.xml
+C:\Users\Ethan\Documents\My Code\PapaBobsPizza\PapaBobsPizza.Domain\bin\Debug\PapaBobsPizza.DTO.dll
+C:\Users\Ethan\Documents\My Code\PapaBobsPizza\PapaBobsPizza.Domain\bin\Debug\PapaBobsPizza.DTO.pdb
+C:\Users\Ethan\Documents\My Code\PapaBobsPizza\PapaBobsPizza.Domain\bin\Debug\PapaBobsPizza.Persistance.dll.config
